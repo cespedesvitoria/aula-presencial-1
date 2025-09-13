@@ -1,1 +1,10 @@
-# aula-presencial-1
+# Incorporando primeiro projeto
+
+
+
+Definindo tamanho do projeto
+
+Configurando git
+
+
+
